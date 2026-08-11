@@ -40,7 +40,13 @@ Create a .env file:
 
 MONGODB_URI=mongodb://127.0.0.1:27017/shortlink-studio
 PORT=4000
+
+
 CLIENT_URL=http://localhost:5173
+
+
+VITE_API_URL=http://localhost:4000/api
+
 
 Make sure MongoDB is running before starting the app.
 
